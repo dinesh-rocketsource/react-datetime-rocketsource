@@ -102,13 +102,17 @@
   width: 100px;
 }
 .rdtPicker th.rdtNext,
-.rdtPicker th.rdtPrev {
+.rdtPicker th.rdtPrev,
+.rdtPicker th.rdtYearPrev,
+.rdtPicker th.rdtYearNext {
   font-size: 21px;
   vertical-align: top;
 }
 
 .rdtPrev span,
-.rdtNext span {
+.rdtNext span,
+.rdtYearPrev span,
+.rdtYearNext span {
   display: block;
   -webkit-touch-callout: none; /* iOS Safari */
   -webkit-user-select: none;   /* Chrome/Safari/Opera */
