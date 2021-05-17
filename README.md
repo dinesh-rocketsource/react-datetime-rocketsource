@@ -1,22 +1,22 @@
-# react-datetime
+# react-datetime-rocketsourceco
 
 [![Build Status](https://secure.travis-ci.org/YouCanBookMe/react-datetime.svg)](https://travis-ci.org/YouCanBookMe/react-datetime)
 [![npm version](https://badge.fury.io/js/react-datetime.svg)](http://badge.fury.io/js/react-datetime)
 
 A date and time picker in the same React.js component. It can be used as a datepicker, timepicker or both at the same time. It is **highly customizable** and it even allows to edit date's milliseconds.
 
-This project started as a fork of https://github.com/quri/react-bootstrap-datetimepicker but the code and the API has changed a lot.
+This project started as a fork of https://github.com/arqex/react-datetime but the code and the API has changed a lot.
 
 ## Installation
 
 Install using npm:
 ```sh
-npm install --save react-datetime-rocketsource
+npm install --save react-datetime-rocketsourceco
 ```
 
 Install using yarn:
 ```sh
-yarn add react-datetime-rocketsource
+yarn add react-datetime-rocketsourceco
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ yarn add react-datetime-rocketsource
 
 
 ```js
-require('react-datetime-rocketsource');
+require('react-datetime-rocketsourceco');
 
 ...
 
@@ -35,7 +35,7 @@ render: function() {
 ```
 [See this example working](http://codepen.io/simeg/pen/mEmQmP).
 
-**Don't forget to add the [CSS stylesheet](https://github.com/YouCanBookMe/react-datetime/blob/master/css/react-datetime.css) to make it work out of the box.**
+**Don't forget to add the [CSS stylesheet](https://github.com/dinesh-rocketsource/react-datetime-rocketsource/blob/master/css/react-datetime.css) to make it work out of the box.**
 
 ## API
 
